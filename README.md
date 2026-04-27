@@ -37,6 +37,14 @@ This repository curates a comprehensive, continuously updated list of papers, re
 - [🛠️ Tools & Libraries](#️-tools--libraries)
 - [👏 Welcome to discussion (Contributing)](#-welcome-to-discussion-contributing)
 
+
+<div align="center">
+  <a href="taxonomy.pdf" target="_blank">
+    <img src="taxonomy.jpg" alt="Taxonomy of Explainable Text Processing and Retrieval Methods" width="100%">
+  </a>
+  <p><em>Fig 1. Taxonomy of Explainable Text Processing and Retrieval Methods. (Click the image to view the high-res PDF)</em></p>
+</div>
+
 ---
 
 ## 📖 Cite Our Work
