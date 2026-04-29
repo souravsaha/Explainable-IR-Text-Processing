@@ -60,3 +60,34 @@ If you find our survey or this repository helpful in your research, please consi
   url = {[https://doi.org/10.1145/3801957](https://doi.org/10.1145/3801957)},
   doi = {10.1145/3801957}
 }
+```
+# 📑 PaperList
+
+## 1. Categorising Explanation Methods
+
+## 2. Basic Methods for Constructing Post-hoc Explanations
+
+## 3. Evaluating explanations
+
+## 4. Document Ranking
+
+## 5. Retrieval Augmented Generation (RAG)
+
+## 🛠️ Tools & Libraries
+
+### 
+- **ir_explain - A Python Library of Explainable IR Methods (Saha et al.).**
+  
+  SIGIR 2025. [[Paper](https://dl.acm.org/doi/10.1145/3726302.3730343)]
+
+- **I-REX - An interactive tool built on top of Lucene, providing a systematic view into the inner workings of retrieval models (Roy et al.).**
+  
+  CIKM 2029. [[Paper](https://dl.acm.org/doi/10.1145/3357384.3357859)]
+
+- **Captum - Model interpretability and understanding tool for PyTorch. (Kokhlikyan et al.).**
+  
+  ICLR 2021. [[Paper](https://arxiv.org/abs/2009.07896)] [[Library](https://github.com/meta-pytorch/captum)]
+
+- **The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models. (Tenney et al.).**
+  
+  EMNLP 2020. [[Paper](https://aclanthology.org/2020.emnlp-demos.15/)] [[Library](https://pair-code.github.io/lit/)]
