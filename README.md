@@ -50,15 +50,23 @@ This repository curates a comprehensive, continuously updated list of papers, re
 ## 📖 Cite Our Work
 If you find our survey or this repository helpful in your research, please consider citing our paper:
 ```bibtex
-@article{saha2024explainability,
-  author = {Saha, Sourav and Majumdar, Debapriyo and Mitra, Mandar},
-  title = {Explainability of Text Processing and Retrieval Methods: A Survey},
-  year = {2024},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  journal = {ACM Computing Surveys},
-  url = {[https://doi.org/10.1145/3801957](https://doi.org/10.1145/3801957)},
-  doi = {10.1145/3801957}
+@article{10.1145/3801957,
+author = {Saha, Sourav and Majumdar, Debapriyo and Mitra, Mandar},
+title = {Explainability of Text Processing and Retrieval Methods: A Survey},
+year = {2026},
+issue_date = {August 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {58},
+number = {11},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3801957},
+doi = {10.1145/3801957},
+journal = {ACM Comput. Surv.},
+month = may,
+articleno = {284},
+numpages = {48},
+keywords = {Explainability, interpretability, text processing, information retrieval, natural language processing, machine learning}
 }
 ```
 # 📑 PaperList
