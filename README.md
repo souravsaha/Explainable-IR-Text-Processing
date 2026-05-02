@@ -79,6 +79,56 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ## 4. Document Ranking
 
+### 4.1 Global explanations
+
+- **Term Weighting Revisited (Singhal).**
+  
+  Thesis 1997. [[Paper](https://ecommons.cornell.edu/server/api/core/bitstreams/ac2f078e-3307-454f-89dc-26693c44b4f3/content)]
+
+- **The importance of length normalization for XML retrieval (Kamps et al.).**
+  
+  IR Journal 2005. [[Paper]([https://dl.acm.org/doi/10.1145/3726302.3730343](https://doi.org/10.1007/s10791-005-0750-7))]
+
+- **An investigation of dirichlet prior smoothing’s performance advantage (Smucker and Allan).**
+  
+  Technical Report 2025. [[Paper](https://maroo.cs.umass.edu/getpdf.php?id=694)]
+
+- **A Formal Study of Information Retrieval Heuristics (Fang et al.).**
+  
+  SIGIR 2004. [[Paper](https://doi.org/10.1145/1008992.1009004)]
+
+- **Diagnostic Evaluation of Information Retrieval Models (Fang et al.).**
+  
+  TOIS 2011. [[Paper](https://doi.org/10.1145/1961209.1961210)]
+
+- **Axiomatic Result Re-Ranking (Hagen et al.).**
+  
+  CIKM 2016. [[Paper](https://doi.org/10.1145/2983323.2983704)]
+
+- **An Axiomatic Approach to Diagnosing Neural IR Models (Rennings et al.).**
+  
+  ECIR 2020. [[Paper](https://doi.org/10.1007/978-3-030-15712-8_32)]
+
+- **Diagnosing BERT with Retrieval Heuristics (Camara and Hauff).**
+  
+  ECIR 2020. [[Paper](https://doi.org/10.1007/978-3-030-45439-5_40)]
+
+
+
+### 4.2 Local explanations
+
+- **LIRME: Locally Interpretable Ranking Model Explanation (Verma and Ganguly).**
+  
+  SIGIR 2019. [[Paper](https://doi.org/10.1145/3331184.3331377)]
+
+- **EXS: Explainable Search Using Local Model Agnostic Interpretability (Singh and Anand).**
+  
+  WSDM 2019. [[Paper](https://doi.org/10.1145/3289600.3290620)]
+
+- **A Study on the Interpretability of Neural Retrieval Models Using DeepSHAP (Fernando et al.).**
+  
+  SIGIR 2019. [[Paper](https://doi.org/10.1145/3331184.3331312)]
+
 ## 5. Retrieval Augmented Generation (RAG)
 
 ## 🛠️ Tools & Libraries
