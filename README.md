@@ -87,7 +87,7 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 - **The importance of length normalization for XML retrieval (Kamps et al.).**
   
-  IR Journal 2005. [[Paper]([https://dl.acm.org/doi/10.1145/3726302.3730343](https://doi.org/10.1007/s10791-005-0750-7))]
+  IR Journal 2005. [[Paper](https://doi.org/10.1007/s10791-005-0750-7)]
 
 - **An investigation of dirichlet prior smoothing’s performance advantage (Smucker and Allan).**
   
