@@ -109,10 +109,49 @@ keywords = {Explainability, interpretability, text processing, information retri
   
   ECIR 2020. [[Paper](https://doi.org/10.1007/978-3-030-15712-8_32)]
 
-- **Diagnosing BERT with Retrieval Heuristics (Camara and Hauff).**
+- **The curious case of IR explainability: Explaining document scores within and across ranking models (Sen et al.).**
   
-  ECIR 2020. [[Paper](https://doi.org/10.1007/978-3-030-45439-5_40)]
+  SIGIR 2020. [[Paper](https://doi.org/10.1145/3397271.3401286)]
 
+- **Interpretable ranking with generalized additive models (Zhuang et al.).**
+  
+  WSDM 2021. [[Paper](https://doi.org/10.1145/3437963.3441796)]
+
+- **ILMART: Interpretable ranking with constrained LambdaMART (Lucchesse et al.).**
+  
+  SIGIR 2022. [[Paper](https://doi.org/10.1145/3477495.3531840)]
+
+- **Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval (Palangi et al.).**
+  
+  TASLP 2016. [[Paper](https://doi.org/10.1109/TASLP.2016.2520371)]
+
+- **Understanding the representational power of neural retrieval models using NLP tasks (Cohen et al.).**
+  
+  ICTIR 2018. [[Paper](https://doi.org/10.1145/3234944.3234959)]
+
+- **Understanding the behaviors of BERT in ranking (Qiao et al.).**
+  
+  Arxic 2019. [[Paper](https://arxiv.org/abs/1904.07531)]
+
+- **BNIRML: Analyzing the behavior of neural IR models (MacAvaney et al.).**
+  
+  TACL 2022. [[Paper](https://doi.org/10.1162/tacl_a_00457)]
+
+- **How Relevance Emerges: A Mechanistic Analysis of LoRA Fine-Tuning in Reranking LLMs (Nijasure et al.).**
+  
+  SIGIR 2025 Workshop. [[Paper](https://arxiv.org/pdf/2504.08780)]
+
+- **Probing ranking LLMs: A mechanistic analysis for information retrieval (Chowdhury et al.).**
+  
+  ICTIR 2025. [[Paper](https://doi.org/10.1145/3731120.3744603)]
+
+- **An analysis of BERT in document ranking (Zhan et al.).**
+  
+  SIGIR 2020. [[Paper](https://doi.org/10.1145/3397271.3401325)]
+
+- **A white box analysis of ColBERT (Formal et al.).**
+  
+  ECIR 2021. [[Paper](https://hal.sorbonne-universite.fr/hal-03364396)]
 
 
 ### 4.2 Local explanations
