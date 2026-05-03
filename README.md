@@ -129,6 +129,43 @@ keywords = {Explainability, interpretability, text processing, information retri
   
   SIGIR 2019. [[Paper](https://doi.org/10.1145/3331184.3331312)]
 
+- **Alignment rationale for query-document relevance (Kim et al.).**
+  
+  SIGIR 2022. [[Paper](https://doi.org/10.1145/3477495.3531883)]
+
+- **Extractive explanations for interpretable text ranking (Leonhardt et al.).**
+  
+  TOIS 2023. [[Paper](https://doi.org/10.1145/3576924)]
+
+- **Evaluating the explainability of neural rankers (Pandian et al.).**
+  
+  ECIR 2024. [[Paper](https://doi.org/10.1007/978-3-031-56066-8_28)]
+
+- **Model agnostic interpretability of rankers via intent modelling (Singh and Anand).**
+  
+  FAT 2020. [[Paper](https://doi.org/10.1145/3351095.3375234)]
+
+- **Listwise explanations for ranking models using multiple explainers (Lyu and Anand).**
+  
+  ECIR 2023. [[Paper](https://doi.org/10.1007/978-3-031-28244-7_41)]
+
+- **Towards explainable search results: A listwise explanation generator (Yu et al.).**
+  
+  SIGIR 2022. [[Paper](https://doi.org/10.1145/3477495.3532067)]
+
+- **Explain like i am BM25: Interpreting a dense model’s ranked-list with a sparse approximation (Llordes et al.).**
+  
+  SIGIR 2023. [[Paper](https://doi.org/10.1145/3539618.3591982)]
+
+- **Shapley value based feature attributions for learning to rank (Chowdhury et al.).**
+  
+  ICLR 2025. [[Paper](https://openreview.net/forum?id=4011PUI9vm)]
+
+- **Faithful listwise feature attribution explanations for ranking models (Heuss et al.).**
+  
+  SIGIR 2025. [[Paper](https://doi.org/10.1145/3726302.3729971)]
+
+
 ## 5. Retrieval Augmented Generation (RAG)
 
 ## 🛠️ Tools & Libraries
