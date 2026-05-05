@@ -34,6 +34,12 @@ This repository curates a comprehensive, continuously updated list of papers, re
   - [5. Retrieval Augmented Generation (RAG)](#5-retrieval-augmented-generation-rag)
     - [5.1 Faithfulness and Attributions in RAG](#51-faithfulness-and-attributions-in-rag)
     - [5.2 Knowledge Conflicts in RAG](#52-knowledge-conflicts-in-rag)
+  - [B. Understanding Embeddings](#b-understanding-embeddings)
+    - [B.1 Transformation of embeddings spaces](#b1-transformation-of-embeddings-spaces)
+    - [B.2 Changing objective function of word embeddings](#b2-changing-objective-function-of-word-embeddings)
+    - [B.3 Power of contextual embeddings](#b3-power-of-contextual-embeddings)
+
+
 - [🛠️ Tools & Libraries](#️-tools--libraries)
 - [👏 Welcome to discussion (Contributing)](#-welcome-to-discussion-contributing)
 
@@ -243,6 +249,15 @@ keywords = {Explainability, interpretability, text processing, information retri
 - **CONFLICTBANK: A benchmark for evaluating knowledge conflicts in large language models (Su et al.).**
   
   Neurips 2024. [[Paper](https://openreview.net/forum?id=wjHVmgBDzc)]
+
+
+## B. Understanding Embeddings
+
+### B.1 Transformation of embeddings spaces
+
+### B.2 Changing objective function of word embeddings
+
+### B.3 Power of contextual embeddings
 
 
 ## 🛠️ Tools & Libraries
