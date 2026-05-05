@@ -207,6 +207,44 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ## 5. Retrieval Augmented Generation (RAG)
 
+### 5.1 Faithfulness and Attributions in RAG
+
+- **Automated evaluation of retrieval augmented generation (Es et al.).**
+  
+  EACL 2024. [[Paper](https://aclanthology.org/2024.eacl-demo.16/)]
+
+- **ARES: An automated evaluation framework for retrieval-augmented generation systems (Saad-Falcon et al.).**
+  
+  NAACL 2024. [[Paper](https://aclanthology.org/2024.naacl-long.20/)]
+
+- **Automatic evaluation of attribution by large language models (Yue et al.).**
+  
+  EMNLP 2023. [[Paper](https://openreview.net/forum?id=jVa7tFQw9N)]
+
+- **Correctness is not faithfulness in retrieval augmented generation attributions (Wallat et al.).**
+  
+  ICTIR 2025. [[Paper](https://doi.org/10.1145/3731120.3744592)]
+
+- **Model internals-based answer attribution for trustworthy retrieval-augmented generation (Qi et al.).**
+  
+  EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.347/)]
+
+
+### 5.2 Knowledge Conflicts in RAG
+
+- **Knowledge conflicts for LLMs: A survey (Xu et al.).**
+  
+  EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.486/)]
+
+- **Discerning and resolving knowledge conflicts through adaptive decoding with contextual information-entropy constraint (Yuan et al.).**
+  
+  ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.234/)]
+
+- **CONFLICTBANK: A benchmark for evaluating knowledge conflicts in large language models (Su et al.).**
+  
+  Neurips 2024. [[Paper](https://openreview.net/forum?id=wjHVmgBDzc)]
+
+
 ## 🛠️ Tools & Libraries
 
 ### 
