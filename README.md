@@ -38,8 +38,19 @@ This repository curates a comprehensive, continuously updated list of papers, re
     - [B.1 Transformation of embeddings spaces](#b1-transformation-of-embeddings-spaces)
     - [B.2 Changing objective function of word embeddings](#b2-changing-objective-function-of-word-embeddings)
     - [B.3 Power of contextual embeddings](#b3-power-of-contextual-embeddings)
-
-
+  - [C. Interpreting Sequence Models](#c-interpreting-sequence-models)
+    - [C.1 Predictive power of individual words](#c1-predictive-power-of-individual-words)
+    - [C.2 Changing objective function of word embeddings](#c2-changing-objective-function-of-word-embeddings)
+    - [C.3 Feature interactions in a hierarchical structure](#c3-feature-interactions-in-a-hierarchical-structure)
+  - [D. Interpreting Attention Weights](#d-interpreting-attention-weights)
+    - [D.1 Debate on Whether Attention is Explanation](#d1-debate-on-whether-attention-is-explanation)
+    - [D.2 Impact of sparse attention on interpretability](#d2-impact-of-sparse-attention-on-interpretability)
+    - [D.3 Faithful and plausible attention distribution by changing loss function](#d3-faithful-and-plausible-attention-distribution-by-changing-loss-function)
+  - [E. Interpreting Transformers and BERT](#e-interpreting-transformers-and-bert)
+    - [E.1 Significance of different layers of BERT](#e1-significance-of-different-layers-of-bert)
+    - [E.2 BERT's capability (or inability) to learn linguistic knowledge](#e2-bert's-capability-or-inability-to-learn-linguistic-knowledge)
+    - [E.3 Understanding multi-head attention](#e3-understanding-multi-head-attention)
+    - [E.4 Information flow in BERT](#e4-information-flow-in-bert)
 - [🛠️ Tools & Libraries](#️-tools--libraries)
 - [👏 Welcome to discussion (Contributing)](#-welcome-to-discussion-contributing)
 
