@@ -31,9 +31,9 @@ This repository curates a comprehensive, continuously updated list of papers, re
   - [4. Document Ranking](#4-document-ranking)
     - [4.1 Global explanations](#41-global-explanations)
     - [4.2 Local explanations](#42-local-explanations)
-  - [5. Retrieval Augmented Generation (RAG)](#5-rag-explanations)
-    - [5.1 Faithfulness and Attributions in RAG](#51-faithful-attributions-rag)
-    - [5.2 Knowledge Conflicts in RAG](#52-knowledge-conflicts-rag)
+  - [5. Retrieval Augmented Generation (RAG)](#5-retrieval-augmented-generation-rag)
+    - [5.1 Faithfulness and Attributions in RAG](#51-faithfulness-and-attributions-in-rag)
+    - [5.2 Knowledge Conflicts in RAG](#52-knowledge-conflicts-in-rag)
 - [🛠️ Tools & Libraries](#️-tools--libraries)
 - [👏 Welcome to discussion (Contributing)](#-welcome-to-discussion-contributing)
 
