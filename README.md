@@ -23,33 +23,30 @@ This repository curates a comprehensive, continuously updated list of papers, re
 - [📖 Cite Our Work](#-cite-our-work)
 - [📚 Overview of the Survey](#-overview-of-the-survey)
 - [📑 Paper List](#-paper-list)
-  - [1. Categorising Explanation Methods](#1-foundational-concepts--taxonomies)
-  - [2. Basic Methods for Constructing Post-hoc Explanations](#2-basic-posthoc-methods)
-    - [2.1 Using probing classifiers to construct global explanations](#21-probing-global-explanations)
-    - [2.2 Model-agnostic, local explanations](#22-model-agnostic-local-explanations)
-  - [3. Evaluating explanations](#3-evaluate-explanations)
-  - [4. Document Ranking](#4-document-ranking)
-    - [4.1 Global explanations](#41-global-explanations)
-    - [4.2 Local explanations](#42-local-explanations)
-  - [5. Retrieval Augmented Generation (RAG)](#5-retrieval-augmented-generation-rag)
-    - [5.1 Faithfulness and Attributions in RAG](#51-faithfulness-and-attributions-in-rag)
-    - [5.2 Knowledge Conflicts in RAG](#52-knowledge-conflicts-in-rag)
-  - [B. Understanding Embeddings](#b-understanding-embeddings)
-    - [B.1 Transformation of embeddings spaces](#b1-transformation-of-embeddings-spaces)
-    - [B.2 Changing objective function of word embeddings](#b2-changing-objective-function-of-word-embeddings)
-    - [B.3 Power of contextual embeddings](#b3-power-of-contextual-embeddings)
-  - [C. Interpreting Sequence Models](#c-interpreting-sequence-models)
-    - [C.1 Predictive power of individual words](#c1-predictive-power-of-individual-words)
-    - [C.2 Feature interactions in a hierarchical structure](#c2-feature-interactions-in-a-hierarchical-structure)
-  - [D. Interpreting Attention Weights](#d-interpreting-attention-weights)
-    - [D.1 Debate on Whether Attention is Explanation](#d1-debate-on-whether-attention-is-explanation)
-    - [D.2 Impact of sparse attention on interpretability](#d2-impact-of-sparse-attention-on-interpretability)
-    - [D.3 Faithful and plausible attention distribution by changing loss function](#d3-faithful-and-plausible-attention-distribution-by-changing-loss-function)
-  - [E. Interpreting Transformers and BERT](#e-interpreting-transformers-and-bert)
-    - [E.1 Significance of different layers of BERT](#e1-significance-of-different-layers-of-bert)
-    - [E.2 BERT's capability (or inability) to learn linguistic knowledge](#e2-berts-capability-or-inability-to-learn-linguistic-knowledge)
-    - [E.3 Understanding multi-head attention](#e3-understanding-multi-head-attention)
-    - [E.4 Information flow in BERT](#e4-information-flow-in-bert)
+  - [1. Foundational Concepts](#1-foundational-concepts)
+    - [1.1 Taxonomy](#11-taxonomy)   
+  - [2. Document Ranking](#2-document-ranking)
+    - [2.1 Global explanations](#21-global-explanations)
+    - [2.2 Local explanations](#22-local-explanations)
+  - [3. Retrieval Augmented Generation (RAG)](#3-retrieval-augmented-generation-rag)
+    - [3.1 Faithfulness and Attributions in RAG](#31-faithfulness-and-attributions-in-rag)
+    - [3.2 Knowledge Conflicts in RAG](#32-knowledge-conflicts-in-rag)
+  - [4. Understanding Embeddings](#4-understanding-embeddings)
+    - [4.1 Transformation of embeddings spaces](#41-transformation-of-embeddings-spaces)
+    - [4.2 Changing objective function of word embeddings](#42-changing-objective-function-of-word-embeddings)
+    - [4.3 Power of contextual embeddings](#43-power-of-contextual-embeddings)
+  - [5. Interpreting Sequence Models](#5-interpreting-sequence-models)
+    - [5.1 Predictive power of individual words](#51-predictive-power-of-individual-words)
+    - [5.2 Feature interactions in a hierarchical structure](#52-feature-interactions-in-a-hierarchical-structure)
+  - [6. Interpreting Attention Weights](#6-interpreting-attention-weights)
+    - [6.1 Debate on Whether Attention is Explanation](#61-debate-on-whether-attention-is-explanation)
+    - [6.2 Impact of sparse attention on interpretability](#62-impact-of-sparse-attention-on-interpretability)
+    - [6.3 Faithful and plausible attention distribution by changing loss function](#63-faithful-and-plausible-attention-distribution-by-changing-loss-function)
+  - [7. Interpreting Transformers and BERT](#7-interpreting-transformers-and-bert)
+    - [7.1 Significance of different layers of BERT](#71-significance-of-different-layers-of-bert)
+    - [7.2 BERT's capability (or inability) to learn linguistic knowledge](#72-berts-capability-or-inability-to-learn-linguistic-knowledge)
+    - [7.3 Understanding multi-head attention](#73-understanding-multi-head-attention)
+    - [7.4 Information flow in BERT](#74-information-flow-in-bert)
 - [🛠️ Tools & Libraries](#️-tools--libraries)
 - [👏 Welcome to discussion (Contributing)](#-welcome-to-discussion-contributing)
 
@@ -87,15 +84,13 @@ keywords = {Explainability, interpretability, text processing, information retri
 ```
 # 📑 PaperList
 
-## 1. Categorising Explanation Methods
+## 1. Foundational Concepts
 
-## 2. Basic Methods for Constructing Post-hoc Explanations
+## 1.1 Taxonomy
 
-## 3. Evaluating explanations
+## 2. Document Ranking
 
-## 4. Document Ranking
-
-### 4.1 Global explanations
+### 2.1 Global explanations
 
 - **Term Weighting Revisited (Singhal).**
   
@@ -170,7 +165,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   ECIR 2021. [[Paper](https://hal.sorbonne-universite.fr/hal-03364396)]
 
 
-### 4.2 Local explanations
+### 2.2 Local explanations
 
 - **LIRME: Locally Interpretable Ranking Model Explanation (Verma and Ganguly).**
   
@@ -221,9 +216,9 @@ keywords = {Explainability, interpretability, text processing, information retri
   SIGIR 2025. [[Paper](https://doi.org/10.1145/3726302.3729971)]
 
 
-## 5. Retrieval Augmented Generation (RAG)
+## 3. Retrieval Augmented Generation (RAG)
 
-### 5.1 Faithfulness and Attributions in RAG
+### 3.1 Faithfulness and Attributions in RAG
 
 - **Automated evaluation of retrieval augmented generation (Es et al.).**
   
@@ -246,7 +241,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.347/)]
 
 
-### 5.2 Knowledge Conflicts in RAG
+### 3.2 Knowledge Conflicts in RAG
 
 - **Knowledge conflicts for LLMs: A survey (Xu et al.).**
   
@@ -261,9 +256,9 @@ keywords = {Explainability, interpretability, text processing, information retri
   Neurips 2024. [[Paper](https://openreview.net/forum?id=wjHVmgBDzc)]
 
 
-## B. Understanding Embeddings
+## 4. Understanding Embeddings
 
-### B.1 Transformation of embeddings spaces
+### 4.1 Transformation of embeddings spaces
 
 - **Ultradense word embeddings by orthogonal transformation (Rothe et al.).**
   
@@ -277,7 +272,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   
   WWW 2020. [[Paper](https://doi.org/10.1145/3366423.3380227)]
 
-### B.2 Changing objective function of word embeddings
+### 4.2 Changing objective function of word embeddings
 
 - **Imparting interpretability to word embeddings while preserving semantic structure (Senel et al.).**
   
@@ -288,15 +283,15 @@ keywords = {Explainability, interpretability, text processing, information retri
   Information Processing Management 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S0306457322000498)]
 
 
-### B.3 Power of contextual embeddings
+### 4.3 Power of contextual embeddings
 
 - **What do you learn from context? Probing for sentence structure in contextualized word representations (Tenney et al.).**
   
   ICLR 2019. [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)]
 
-## C. Interpreting Sequence Models
+## 5. Interpreting Sequence Models
 
-### C.1 Predictive power of individual words
+### 5.1 Predictive power of individual words
 
 - **Automatic rule extraction from long short term memory networks (Murdoch and Szlam).**
   
@@ -306,7 +301,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   
   ICLR 2018. [[Paper](https://openreview.net/forum?id=rkRwGg-0Z)]
 
-### C.2 Feature interactions in a hierarchical structure
+### 5.2 Feature interactions in a hierarchical structure
 
 - **Hierarchical interpretations for neural network predictions (Singh et al.).**
   
@@ -317,9 +312,9 @@ keywords = {Explainability, interpretability, text processing, information retri
   ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.494)]
 
 
-## D. Interpreting Attention Weights
+## 6. Interpreting Attention Weights
 
-### D.1 Debate on Whether Attention is Explanation 
+### 6.1 Debate on Whether Attention is Explanation 
 
 - **Attention is not explanation (Jain and Wallace).**
   
@@ -334,14 +329,14 @@ keywords = {Explainability, interpretability, text processing, information retri
   EMNLP 2019. [[Paper](https://aclanthology.org/D19-1002)]
 
 
-### D.2 Impact of sparse attention on interpretability
+### 6.2 Impact of sparse attention on interpretability
 
 - **Is sparse attention more interpretable? (Meister et al.).**
   
   ACL 2021. [[Paper](https://aclanthology.org/2021.acl-short.17)]
 
 
-### D.3 Faithful and plausible attention distribution by changing loss function
+### 6.3 Faithful and plausible attention distribution by changing loss function
 
 - **Towards transparent and explainable attention models (Mohankumar et al.).**
   
@@ -352,9 +347,9 @@ keywords = {Explainability, interpretability, text processing, information retri
   EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.645)]
 
 
-## E. Interpreting Transformers and BERT
+## 7. Interpreting Transformers and BERT
 
-###  E.1 Significance of different layers of BERT
+###  7.1 Significance of different layers of BERT
 
 - **BERT rediscovers the classical NLP pipeline. (Tenney et al.).**
   
@@ -365,7 +360,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   TACL 2020. [[Paper](https://aclanthology.org/2020.tacl-1.54)]
 
 
-###  E.2 BERT's capability (or inability) to learn linguistic knowledge
+###  7.2 BERT's capability (or inability) to learn linguistic knowledge
 
 - **What does BERT learn about the structure of language? (Jawahar et al.).**
   
@@ -376,7 +371,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   ICLR 2019. [[Paper](https://openreview.net/forum?id=BJx0sjC5FX)]
 
 
-###  E.3 Understanding multi-head attention
+###  7.3 Understanding multi-head attention
 
 - **Analyzing multi-head self-attention: Specialized heads do the heavy lifting, the rest can be pruned (Voita et al.).**
   
@@ -395,7 +390,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   AAAI 2021. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17605)]
 
 
-###  E.4 Information flow in BERT
+###  7.4 Information flow in BERT
 
 - **Quantifying attention flow in transformers (Abnar et al.).**
   
