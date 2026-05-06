@@ -47,7 +47,7 @@ This repository curates a comprehensive, continuously updated list of papers, re
     - [D.3 Faithful and plausible attention distribution by changing loss function](#d3-faithful-and-plausible-attention-distribution-by-changing-loss-function)
   - [E. Interpreting Transformers and BERT](#e-interpreting-transformers-and-bert)
     - [E.1 Significance of different layers of BERT](#e1-significance-of-different-layers-of-bert)
-    - [E.2 BERT's capability (or inability) to learn linguistic knowledge](#e2-bert's-capability-or-inability-to-learn-linguistic-knowledge)
+    - [E.2 BERT's capability (or inability) to learn linguistic knowledge](#e2-berts-capability-or-inability-to-learn-linguistic-knowledge)
     - [E.3 Understanding multi-head attention](#e3-understanding-multi-head-attention)
     - [E.4 Information flow in BERT](#e4-information-flow-in-bert)
 - [🛠️ Tools & Libraries](#️-tools--libraries)
@@ -321,19 +321,93 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ### D.1 Debate on Whether Attention is Explanation 
 
+- **Attention is not explanation (Jain and Wallace).**
+  
+  NAACL 2019. [[Paper](https://aclanthology.org/N19-1357)]
+
+- **Is attention interpretable? (Serrano and Smith).**
+  
+  ACL 2019. [[Paper](https://doi.org/10.18653/v1/P19-1282)]
+
+- **Attention is not not explanation (Wiegreffe and Pinter).**
+  
+  EMNLP 2019. [[Paper](https://aclanthology.org/D19-1002)]
+
+
 ### D.2 Impact of sparse attention on interpretability
 
+- **Is sparse attention more interpretable? (Meister et al.).**
+  
+  ACL 2021. [[Paper](https://aclanthology.org/2021.acl-short.17)]
+
+
 ### D.3 Faithful and plausible attention distribution by changing loss function
+
+- **Towards transparent and explainable attention models (Mohankumar et al.).**
+  
+  ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.387)]
+
+- **Enjoy the salience: Towards better transformer-based faithful explanations with word salience (Chrysostomou and Aletras).**
+  
+  EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.645)]
+
 
 ## E. Interpreting Transformers and BERT
 
 ###  E.1 Significance of different layers of BERT
 
+- ** BERT rediscovers the classical NLP pipeline. (Tenney et al.).**
+  
+  ACL 2019. [[Paper](https://aclanthology.org/P19-1452)]
+
+- ** A primer in BERTology: What we know about how BERT works (Rogers et al.).**
+  
+  TACL 2020. [[Paper](https://aclanthology.org/2020.tacl-1.54)]
+
+
 ###  E.2 BERT's capability (or inability) to learn linguistic knowledge
+
+- **What does BERT learn about the structure of language? (Jawahar et al.).**
+  
+  ACL 2019. [[Paper](https://aclanthology.org/P19-1356)]
+
+- **RNNs implicitly implement tensor-product representations (McCoy et al.).**
+  
+  ICLR 2019. [[Paper](https://openreview.net/forum?id=BJx0sjC5FX)]
+
 
 ###  E.3 Understanding multi-head attention
 
+- **Analyzing multi-head self-attention: Specialized heads do the heavy lifting, the rest can be pruned (Voita et al.).**
+  
+  ACL 2019. [[Paper](https://aclanthology.org/P19-1580)]
+
+- **On the prunability of attention heads in multilingual BERT (Budhraja et al.).**
+  
+  Arxiv 2021. [[Paper](https://arxiv.org/abs/2109.12683)]
+
+- **What does BERT look at? an analysis of BERT’s attention (Clark et al.).**
+  
+  ACL Workshop BlackboxNLP 2019. [[Paper](https://aclanthology.org/W19-4828)]
+
+- **The heads hypothesis: A unifying statistical approach towards understanding multi-headed attention in BERT (Pande et al.).**
+  
+  AAAI 2021. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17605)]
+
+
 ###  E.4 Information flow in BERT
+
+- **Quantifying attention flow in transformers (Abnar et al.).**
+  
+  ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.385)]
+
+- ** Self-attention attribution: Interpreting information interactions inside transformer (Hao et al.).**
+  
+  AAAI 2021. [[Paper](https://arxiv.org/pdf/2004.11207.pdf)]
+
+- **Influence patterns for explaining information flow in BERT (Lu et al.).**
+  
+  NeurIPS 2021. [[Paper](https://openreview.net/forum?id=FYDE3I9fev0)]
 
 
 ## 🛠️ Tools & Libraries
