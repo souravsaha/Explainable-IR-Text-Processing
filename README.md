@@ -40,8 +40,7 @@ This repository curates a comprehensive, continuously updated list of papers, re
     - [B.3 Power of contextual embeddings](#b3-power-of-contextual-embeddings)
   - [C. Interpreting Sequence Models](#c-interpreting-sequence-models)
     - [C.1 Predictive power of individual words](#c1-predictive-power-of-individual-words)
-    - [C.2 Changing objective function of word embeddings](#c2-changing-objective-function-of-word-embeddings)
-    - [C.3 Feature interactions in a hierarchical structure](#c3-feature-interactions-in-a-hierarchical-structure)
+    - [C.2 Feature interactions in a hierarchical structure](#c2-feature-interactions-in-a-hierarchical-structure)
   - [D. Interpreting Attention Weights](#d-interpreting-attention-weights)
     - [D.1 Debate on Whether Attention is Explanation](#d1-debate-on-whether-attention-is-explanation)
     - [D.2 Impact of sparse attention on interpretability](#d2-impact-of-sparse-attention-on-interpretability)
@@ -266,9 +265,65 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ### B.1 Transformation of embeddings spaces
 
+- **Ultradense word embeddings by orthogonal transformation (Rothe et al.).**
+  
+  NAACL 2016. [[Paper](https://aclanthology.org/N16-1091)]
+
+- **Analytical methods for interpretable ultradense word embeddings (Dufter and Schtuze).**
+  
+  EMNLP 2019. [[Paper](https://aclanthology.org/D19-1111)]
+
+- **The POLAR framework: Polar opposites enable interpretability of pre-trained word embeddings (Mathew et al.).**
+  
+  WWW 2020. [[Paper](https://doi.org/10.1145/3366423.3380227)]
+
 ### B.2 Changing objective function of word embeddings
 
+- ** mparting interpretability to word embeddings while preserving semantic structure (Senel et al.).**
+  
+  Natural Language Engineering 2021. [[Paper](http://dx.doi.org/10.1017/S1351324920000315)]
+
+- **Learning interpretable word embeddings via bidirectional alignment of dimensions with semantic concepts (Senel et al.).**
+  
+  Information Processing Management 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S0306457322000498)]
+
+
 ### B.3 Power of contextual embeddings
+
+- **What do you learn from context? Probing for sentence structure in contextualized word representations (Tenney et al.).**
+  
+  ICLR 2019. [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)]
+
+## C. Interpreting Sequence Models
+
+### C.1 Predictive power of individual words
+
+- **Automatic rule extraction from long short term memory networks (Murdoch and Szlam).**
+  
+  ICLR 2017. [[Paper](https://openreview.net/forum?id=SJvYgH9xe)]
+
+- **Beyond word importance: Contextual decomposition to extract interactions from LSTMs (Murdoch et al.).**
+  
+  ICLR 2018. [[Paper](https://openreview.net/forum?id=rkRwGg-0Z)]
+
+### C.2 Feature interactions in a hierarchical structure
+
+- **Hierarchical interpretations for neural network predictions (Singh et al.).**
+  
+  ICLR 2019. [[Paper](https://openreview.net/forum?id=SkEqro0ctQ)]
+
+- **Generating hierarchical explanations on text classification via feature interaction detection (Chen et al.).**
+  
+  ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.494)]
+
+
+## D. Interpreting Attention Weights
+
+### D.1 Debate on Whether Attention is Explanation 
+
+### D.2 Impact of sparse attention on interpretability
+
+### D.3 Faithful and plausible attention distribution by changing loss function
 
 
 ## 🛠️ Tools & Libraries
