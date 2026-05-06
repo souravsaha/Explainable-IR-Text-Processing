@@ -325,6 +325,16 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ### D.3 Faithful and plausible attention distribution by changing loss function
 
+## E. Interpreting Transformers and BERT
+
+###  E.1 Significance of different layers of BERT
+
+###  E.2 BERT's capability (or inability) to learn linguistic knowledge
+
+###  E.3 Understanding multi-head attention
+
+###  E.4 Information flow in BERT
+
 
 ## 🛠️ Tools & Libraries
 
