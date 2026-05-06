@@ -356,11 +356,11 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ###  E.1 Significance of different layers of BERT
 
-- ** BERT rediscovers the classical NLP pipeline. (Tenney et al.).**
+- **BERT rediscovers the classical NLP pipeline. (Tenney et al.).**
   
   ACL 2019. [[Paper](https://aclanthology.org/P19-1452)]
 
-- ** A primer in BERTology: What we know about how BERT works (Rogers et al.).**
+- **A primer in BERTology: What we know about how BERT works (Rogers et al.).**
   
   TACL 2020. [[Paper](https://aclanthology.org/2020.tacl-1.54)]
 
@@ -401,7 +401,7 @@ keywords = {Explainability, interpretability, text processing, information retri
   
   ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.385)]
 
-- ** Self-attention attribution: Interpreting information interactions inside transformer (Hao et al.).**
+- **Self-attention attribution: Interpreting information interactions inside transformer (Hao et al.).**
   
   AAAI 2021. [[Paper](https://arxiv.org/pdf/2004.11207.pdf)]
 
