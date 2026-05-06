@@ -279,7 +279,7 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 ### B.2 Changing objective function of word embeddings
 
-- ** mparting interpretability to word embeddings while preserving semantic structure (Senel et al.).**
+- **Imparting interpretability to word embeddings while preserving semantic structure (Senel et al.).**
   
   Natural Language Engineering 2021. [[Paper](http://dx.doi.org/10.1017/S1351324920000315)]
 
