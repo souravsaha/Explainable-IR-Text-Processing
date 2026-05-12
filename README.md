@@ -142,7 +142,7 @@ keywords = {Explainability, interpretability, text processing, information retri
 
 - **Understanding the behaviors of BERT in ranking (Qiao et al.).**
   
-  Arxic 2019. [[Paper](https://arxiv.org/abs/1904.07531)]
+  Arxiv 2019. [[Paper](https://arxiv.org/abs/1904.07531)]
 
 - **BNIRML: Analyzing the behavior of neural IR models (MacAvaney et al.).**
   
